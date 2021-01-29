@@ -1,3 +1,1 @@
 Introduction -- Reshma
-	Good morning to everyone, I am Reshma and my team members are Bhargavi,Harika,Sai krishna. In our college ,we are facing some inconvinience in searching of sharable resources like projectors,labs,seminar halls whether they are available or not .To check the resouces available one should go and check everytime whether it is free or not which makes more time consuming.Inorder to avoid this problem We are currently working on a project i.e ,sharable resource reservation.Now ,one of my teammate explain about the project.   
-	
