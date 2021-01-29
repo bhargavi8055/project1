@@ -1,11 +1,3 @@
 Introduction -- Reshma
 	Good morning to everyone, I am Reshma and my team members are Bhargavi,Harika,Sai krishna. In our college ,we are facing some inconvinience in searching of sharable resources like projectors,labs,seminar halls whether they are available or not .To check the resouces available one should go and check everytime whether it is free or not which makes more time consuming.Inorder to avoid this problem We are currently working on a project i.e ,sharable resource reservation.Now ,one of my teammate explain about the project.   
 	
-Brief decription ABout project --- Bhargavi
-	Good morning to everyone, as my team leader told that  we are working on a project which has features like reserve a resource ,modify or cancel reservation . we can reserve a resource  anywhere at anytime if it is available.we need not to wait till the resource is free enough to use.and also we can change the reserved time for the resource . if a particular user reserve some resource for a period of time and at an instant if they don't want to use all the time they can be change he can do that ,it makes other user can utilize it .if we don't want to use the resource we can cancel the reservation and it can be useful to some other resource.
-
-Harika ---  
-	we are going to use html,css and javascript for front-end development and python with oracle database for back-end .these html,css and javascript languges are very popular and useful .we can implement effetively by using these .database is used in my project to store the details of all the resources and users who can be accessible to this application.
-	
-Advantages ---Sai Krishna
-	we can make use of resources efficiently without wasting of those resources , my project helps in reducing the time in searching of resources.  user can see  who reserved a particular resource ,so that he can be able to know where the resource available  at  that time .if user can't get the resource at the time he reserved he can directly go to the user ,who already used before him.so that, he can search a resource easily without making more efforts and get it.
